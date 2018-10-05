@@ -3,4 +3,4 @@ To open this, click the downlaod button. Downlaod the zip. and open the index ht
 
 This repository is *not* the current progress of working mens institute and updates have been *discontinued*
 
-A preview can be found by following parrentphotography.com/workingmensinstitute 
+A preview can be found by following [parrentphotography.com/workingmensinstitute](parrentphotography.com/workingmensinstitute)
